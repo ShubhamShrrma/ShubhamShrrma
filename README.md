@@ -22,8 +22,8 @@ I am a Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - :zap: In my free time, I solve problems on LeetCode and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Shubham-Sharma?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/deepam-sharma-332240134/](https://www.linkedin.com/in/shubhamshrrma/))
-- :mailbox:My Email Id: [![Email Badge](https://img.shields.io/badge/-Deepam-Sharma?style=flat&logo=gmail&logoColor=white)](mailto:sarswatshubham8@gmail.com)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Shubham-Sharma?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/shubhamshrrma/])
+- :mailbox:My Email Id: [![Email Badge](https://img.shields.io/badge/-Shubham-Sharma?style=flat&logo=gmail&logoColor=white)](mailto:sarswatshubham8@gmail.com)
 
 ---
 
@@ -51,6 +51,6 @@ I am a Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=deepam1212&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShubhamShrrma&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepam1212&theme=vision-friendly-dark)](https://github.com/deepam1212/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamShrrma&theme=vision-friendly-dark)](https://github.com/ShubhamShrrma/github-readme-stats)
